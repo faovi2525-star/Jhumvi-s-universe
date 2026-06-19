@@ -1,0 +1,4 @@
+{
+"name":"jhumvi-api",
+"scripts":{"dev":"node server.js"}
+}
