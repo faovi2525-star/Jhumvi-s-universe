@@ -1,1 +1,0 @@
-Open index.html directly or upload to GitHub Pages.
