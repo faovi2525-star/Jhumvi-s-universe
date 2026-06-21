@@ -1,9 +1,0 @@
-
-:root{--blue:#1565FF;--orange:#FF7A00}
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial;background:#f8fafc}
-nav{padding:18px;background:linear-gradient(90deg,var(--blue),var(--orange));color:white}
-.hero{padding:80px;text-align:center}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;padding:24px}
-.card{background:#fff;padding:28px;border-radius:18px}
-footer{text-align:center;padding:30px}
