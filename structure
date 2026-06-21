@@ -1,0 +1,29 @@
+Jhumvi-s-universe/
+│
+├── index.html                 ← Premium Homepage (এটা রাখবে)
+├── style.css                  ← Homepage CSS
+│
+├── products.html
+├── product-details.html
+├── search.html
+├── cart.html
+├── checkout.html
+│
+├── login.html
+├── register.html
+├── account.html
+│
+├── seller-center.html
+├── admin-dashboard.html
+├── orders.html
+├── wishlist.html
+├── reviews.html
+│
+├── assets/
+│   └── style.css
+│
+├── backend/
+│   ├── mongodb-model.txt
+│   └── payment-flow.txt
+│
+└── DEPLOY.txt
